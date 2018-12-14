@@ -1,0 +1,11 @@
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\bin\Debug\netcoreapp2.0\ExternalApiClient.deps.json
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\bin\Debug\netcoreapp2.0\ExternalApiClient.runtimeconfig.json
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\bin\Debug\netcoreapp2.0\ExternalApiClient.runtimeconfig.dev.json
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\bin\Debug\netcoreapp2.0\ExternalApiClient.dll
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\bin\Debug\netcoreapp2.0\ExternalApiClient.pdb
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\obj\Debug\netcoreapp2.0\ExternalApiClient.csprojAssemblyReference.cache
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\obj\Debug\netcoreapp2.0\ExternalApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\obj\Debug\netcoreapp2.0\ExternalApiClient.AssemblyInfoInputs.cache
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\obj\Debug\netcoreapp2.0\ExternalApiClient.AssemblyInfo.cs
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\obj\Debug\netcoreapp2.0\ExternalApiClient.dll
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\ExternalApiClient\obj\Debug\netcoreapp2.0\ExternalApiClient.pdb

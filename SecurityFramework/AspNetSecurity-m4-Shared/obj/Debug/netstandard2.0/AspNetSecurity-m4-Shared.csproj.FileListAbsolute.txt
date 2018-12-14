@@ -1,0 +1,9 @@
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\bin\Debug\netstandard2.0\AspNetSecurity-m4-Shared.deps.json
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\bin\Debug\netstandard2.0\AspNetSecurity-m4-Shared.dll
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\bin\Debug\netstandard2.0\AspNetSecurity-m4-Shared.pdb
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\obj\Debug\netstandard2.0\AspNetSecurity-m4-Shared.csprojAssemblyReference.cache
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\obj\Debug\netstandard2.0\AspNetSecurity-m4-Shared.csproj.CoreCompileInputs.cache
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\obj\Debug\netstandard2.0\AspNetSecurity-m4-Shared.AssemblyInfoInputs.cache
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\obj\Debug\netstandard2.0\AspNetSecurity-m4-Shared.AssemblyInfo.cs
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\obj\Debug\netstandard2.0\AspNetSecurity-m4-Shared.dll
+C:\Users\Pranay Tigga\Documents\Learning\Pluralsight\asp-dot-net-core-security-understanding\05\demos\TokenServiceInMemory\AspNetSecurity-m4-Shared\obj\Debug\netstandard2.0\AspNetSecurity-m4-Shared.pdb
